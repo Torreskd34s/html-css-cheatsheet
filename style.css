@@ -1,0 +1,32 @@
+body{
+    background-color: gainsboro;
+    font-family: monospace,'Courier New', Courier
+}
+
+h1,h2 {
+    text-align: center;
+}
+
+h2{
+    color: seagreen;
+}
+
+table{
+    border: 2px solid seagreen;
+    width: 650px;
+    margin: 0 auto;
+}
+
+th{
+    background-color: salmon;
+    
+}
+
+td{
+    border-top: 1px solid seagreen;
+}
+
+.tag-name{
+    background-color: antiquewhite;
+}
+
